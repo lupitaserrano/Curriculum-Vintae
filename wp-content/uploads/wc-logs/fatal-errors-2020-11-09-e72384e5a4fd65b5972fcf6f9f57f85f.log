@@ -1,0 +1,10 @@
+2020-11-09T13:15:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\perros\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\SqlQuery.php en la línea 8
+
+2020-11-09T13:15:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\perros\wp-includes\Requests\Transport\cURL.php en la línea 463
+
+2020-11-09T13:17:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\perros\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2020-11-09T16:06:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\perros\wp-includes\Requests\Transport\cURL.php en la línea 163
+
+2020-11-09T16:45:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wordpress\perros\wp-admin\includes\class-wp-filesystem-direct.php en la línea 66
+
